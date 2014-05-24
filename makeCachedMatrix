@@ -1,0 +1,4 @@
+git clone https://github.com/rdpeng/ProgrammingAssignment2
+cd Spoon-Knife
+git remote add upstream https://github.com/rdpeng/ProgrammingAssignment2
+git fetch upstream
